@@ -1,0 +1,29 @@
+{
+  "name": "hangman",
+  "homepage": "https://aamir-0.github.io/hangman",
+  "description": "https://scrimba.com/learn-react-c0e/~02el",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d dist",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "react": "18.3.1",
+    "react-confetti": "6.1.0",
+    "react-dom": "18.3.1",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*",
+    "gh-pages": "^6.3.0"
+  },
+  "version": "1.0.0",
+  "main": "languages.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
