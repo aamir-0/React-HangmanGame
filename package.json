@@ -1,6 +1,6 @@
 {
   "name": "hangman",
-  "homepage": "https://aamir-0.github.io/hangman",
+  "homepage": "https://aamir-0.github.io/React-HangmanGame",
   "description": "https://scrimba.com/learn-react-c0e/~02el",
   "scripts": {
     "start": "vite",

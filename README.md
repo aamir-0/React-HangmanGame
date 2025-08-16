@@ -4,7 +4,7 @@ A fun and interactive hangman game built with React as part of my journey learni
 
 ## 🚀 Live Demo
 
-[Play the Game](https://aamir-0.github.io/hangman) 
+[Play the Game](https://aamir-0.github.io/React-HangmanGame) 
 
 ## 🎯 About This Project
 
@@ -88,16 +88,6 @@ This project helped me understand:
 - [Scrimba React Course](https://scrimba.com/learn/learnreact) - Original tutorial inspiration
 - [React Documentation](https://react.dev/) - Official React docs
 - [Vite Documentation](https://vitejs.dev/) - Build tool documentation
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 ---
 
